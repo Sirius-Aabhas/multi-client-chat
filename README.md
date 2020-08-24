@@ -1,1 +1,1 @@
-# multi-client-peer-to-peer-chat
+# multi-client-chat
